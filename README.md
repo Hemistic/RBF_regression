@@ -1,1 +1,2 @@
 # RBF_regression
+径向基函数（Radical Basis Function，RBF）是多维空间插值的传统技术，由Powell于1985年提出。1988年，Broomhead和Lowe根据生物神经元具有局部响应这一特点，将RBF引入神经网络设计中，产生了RBF神经网络。1989年，Jackson论证了RBF神经网络对非线性连续函数的一致逼近性能
